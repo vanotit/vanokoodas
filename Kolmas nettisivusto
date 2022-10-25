@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mun kolmas sivusto</title>
+    <link rel="stylesheet" href="tyylit.css">
+</head>
+<body>
+        <header>
+            Mun kolmas nettisuvisto
+        </header>
+
+<br>
+<div>
+<div class="broidi">
+    <nav>
+        <a href="file:///C:/Users/Vanot/.vscode/index.html.html" id="eka">Mun eka nettisivu</a>
+    </nav>
+</div>
+<div class="systeri">
+    <nav>
+        <a href="file:///C:/Users/Vanot/.vscode/second%20html.html" id="toka">Täs myös mun toinen</a>
+    </nav>
+</div>
+</div>
+    <div class="swag">
+    <section>
+        <h1>Vanotit opiskelijana</h1>
+        <details>
+            <summary>
+                Avaa nähdäksesi
+            </summary>
+            <p>Rehellisesti oon taistellu koulunkaa, mut nyt sujuu hyvin</p>
+        </details>
+        <details>
+            <summary>
+                Lisätietoa sivusta
+            </summary>
+        <p>Laitoin mun verkkosivut tonne ylös</p>
+        </details>
+    </section>
+    </div>
+     <div class="artikkeli">
+        <section>
+            <h2>Code checker halus et lisään tän</h2>
+        <div>
+            <article>
+            <h2>En keksiny mitään tähän</h2>
+            <p>niin tässä Katri Helena</p>
+            <a href="https://www.youtube.com/watch?v=HNeLXOgERf8">
+            <img src="katri(1).jpg" alt="katri" height="100" width="100">
+            </a>
+             </article>
+         </div>
+         </section>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="footer">
+    <footer>
+        Painappas tota Katri kuvaa
+    </footer>
+    </div>
+</body>
+</html>
